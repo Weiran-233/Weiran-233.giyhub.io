@@ -1,3 +1,4 @@
+@import "{{ site.theme }}";
 body {
     font-family: Arial, sans-serif;
     margin: 0;
